@@ -1,0 +1,14 @@
+Overview
+The Inventory management section of the car dealership management system tracks and manages the details of cars available in the dealership. This includes the details of the make, model, price and availability
+
+Car Details
+
+1. Subaru
+    - Model: XV
+    - Price: RM 125,000
+    - Availability: In-stock
+
+2. BMW
+    - Model: 3 series 325i Msport
+    - Price: RM 325,000
+    - Availability: In-stock
