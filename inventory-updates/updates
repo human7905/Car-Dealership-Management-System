@@ -1,0 +1,22 @@
+# Inventory Updates Log
+
+## Overview
+This document tracks all updates made to the inventory, including price changes, stock updates, and vehicle status changes.
+
+### Update Entries:
+
+**Date**: 2024-12-23
+  - **Vehicle**: Subaru XV 2.0i (2020)
+  - **Update Type**: Price Adjustment
+  - **New Price**: RM 125,000
+  - **Reason**: Regular price review.
+
+- **Date**: 2024-12-29
+  - **Vehicle**: Mercedes Benz A Class A200 Progressive Line (2023)
+  - **Update Type**: Stock Update
+  - **Stock Change**: No change in stock (still available).
+
+- **Date**: 2024-12-31
+  - **Vehicle**: BMW 3 Series G20 320i (2020)
+  - **Update Type**: Status Change
+  - **Status Change**: In-stock (no sales yet)
