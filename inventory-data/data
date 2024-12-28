@@ -3,7 +3,7 @@
 ## Overview
 This document contains the current stock information for all vehicles in the dealership's inventory.
 
-### Subaru Models
+## Subaru Models
 
 | Model                           | Price (RM) | Availability |
 |---------------------------------|------------|--------------|
@@ -12,7 +12,7 @@ This document contains the current stock information for all vehicles in the dea
 | Subaru Forester 2.0i-L (2021)   | RM 140,000 | In-stock     |
 | Subaru Outback 2.5i (2021)      | RM 185,000 | In-stock     |
 
-### BMW Models
+## BMW Models
 
 | Model                                | Price (RM)  | Availability |
 |--------------------------------------|-------------|--------------|
@@ -20,9 +20,9 @@ This document contains the current stock information for all vehicles in the dea
 | 5 Series F10 528i (2012)             | RM 400,000  | In-stock     |
 | 3 Series G20 320i (2020)             | RM 238,800  | In-stock     |
 | 4 Series G22 430i M Sport (2021)     | RM 330,000  | In-stock     |
-| 7 Series G11 740Li (2022)            | RM 650,000   | In-stock    |
+| 7 Series G11 740Li (2022)            | RM 650,000  | In-stock     |
 
-### Mercedes-Benz Models
+## Mercedes-Benz Models
 
 | Model                                             | Price (RM)   | Availability |
 |---------------------------------------------------|--------------|--------------|
@@ -32,7 +32,7 @@ This document contains the current stock information for all vehicles in the dea
 | Mercedes-Benz C-Class C200 Avantgarde (2023)      | RM 258,888   | In-stock     |
 | Mercedes-Benz E-Class E350e Avantgarde (2023)     | RM 390,888   | In-stock     |
 
-### Porsche Models
+## Porsche Models
 
 | Model                                          | Price (RM)    | Availability |
 |------------------------------------------------|---------------|--------------|
@@ -41,3 +41,21 @@ This document contains the current stock information for all vehicles in the dea
 | Porsche Taycan 4S (2023)                       | RM 780,000    | In-stock     |
 | Porsche Cayenne Turbo (2022)                   | RM 950,000    | In-stock     |
 | Porsche Panamera 4 (2023)                      | RM 850,000    | In-stock     |
+
+## Ferrari
+
+| Model                       | Price (RM)   | Availability |
+|-----------------------------|--------------|--------------|
+| Ferrari 488 GTB (2020)      | RM 1,200,000 | In-stock     |
+| Ferrari Portofino M (2022)  | RM 1,450,000 | In-stock     |
+| Ferrari Roma (2022)         | RM 1,000,000 | In-stock     |
+| Ferrari F8 Tributo (2021)   | RM 1,300,000 | In-stock     |
+
+## Audi
+
+| Model                       | Price (RM)   | Availability |
+|-----------------------------|--------------|--------------|
+| Audi A6 2.0 TFSI (2021)     | RM 350,000   | In-stock     |
+| Audi Q7 55 TFSI (2022)      | RM 590,000   | In-stock     |
+| Audi RS5 Coupe (2021)       | RM 700,000   | In-stock     |
+| Audi A3 1.4 TFSI (2020)     | RM 180,000   | In-stock     | 

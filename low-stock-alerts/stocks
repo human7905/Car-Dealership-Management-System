@@ -20,3 +20,7 @@ This document tracks vehicles that are running low in stock and require restocki
 - **Vehicle**: Porsche Macan S (2022)
   - **Stock Level**: 2 units left
   - **Alert**: Restock needed soon.
+
+- **Vehicle**: Audi A6 2.0 TFSI (2021)
+  - **Stock Level**: 1 unit left
+  - **Alert**: Last unit before the next model release
