@@ -1,0 +1,26 @@
+# Low Stock Alerts
+
+## Overview
+This document tracks vehicles that are running low in stock and require restocking.
+
+### Alerts:
+
+- **Vehicle**: Subaru XV 2.0i (2020)
+  - **Stock Level**: 2 units left
+  - **Alert**: Restock needed soon.
+
+- **Vehicle**: BMW 5 Series F10 528i (2012)
+  - **Stock Level**: 1 unit left
+  - **Alert**: Out of stock soon.
+
+- **Vehicle**: Mercedes-Benz S Class S450 L (2023)
+  - **Stock Level**: 3 units left
+  - **Alert**: Restock required within the next month.
+
+- **Vehicle**: Porsche Macan S (2022)
+  - **Stock Level**: 2 units left
+  - **Alert**: Restock needed soon.
+
+- **Vehicle**: Audi A6 2.0 TFSI (2021)
+  - **Stock Level**: 1 unit left
+  - **Alert**: Last unit before the next model release
